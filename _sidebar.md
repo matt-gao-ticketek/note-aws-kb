@@ -1,4 +1,4 @@
 <!-- _sidebar.md -->
 
 - [Home](/)
-- [Hooks](hooks.md)
+- [EC2](ec2.md)

@@ -1,7 +1,7 @@
 # Headline
 
-> An awesome project.
+> Notes repository, which works as a knowledge base of AWS.
 
-## React Hooks
+## Amazon Elastic Compute Cloud (Amazon EC2)
 
-> React hooks are awesome!
+> Amazon EC2
